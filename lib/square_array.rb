@@ -7,6 +7,6 @@ while counter < array.length do
   counter += 1
 end
 
-return array
+return new_numbers
 
 end
