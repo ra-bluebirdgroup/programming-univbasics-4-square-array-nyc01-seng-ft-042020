@@ -8,5 +8,4 @@ while counter < array.length do
 end
 
 return new_numbers
-
 end
